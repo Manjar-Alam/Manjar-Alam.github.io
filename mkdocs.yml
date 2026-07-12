@@ -1,0 +1,93 @@
+# ============================================================
+# PORTFOLIO CONFIGURATION
+# Edit all lines marked [YOUR ...] to customize your site
+# ============================================================
+
+site_name: "Manjar's Geospatial Portfolio"
+site_description: "Portfolio of Manjar Alam — Remote Sensing and GIS Professional"
+site_author: "Manjar Alam"
+# After your site is live, uncomment and set this to your actual GitHub Pages URL:
+site_url: "https://Manjar-Alam/github.io"
+
+theme:
+  name: material
+  # Icon used as both the site logo (header) and browser favicon.
+  # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+  # and replace "material/earth" with any "material/..." icon name you prefer.
+  icon:
+    logo: material/earth
+  palette:
+    # To change the color, edit the 'primary' and 'accent' values below for both
+    # the 'default' (light) and 'slate' (dark) schemes.
+    # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
+    # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
+    - scheme: default            # Light mode
+      primary: teal #indigo 
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate              # Dark mode
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs            # Top-level nav items shown as horizontal tabs
+    - navigation.top             # Back-to-top button when scrolling up
+    - content.code.copy          # Copy button on all code blocks
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - assets/css/extra.css
+
+markdown_extensions:
+  - md_in_html        # Allows Markdown inside HTML blocks (used for project cards)
+  - attr_list         # Allows adding CSS classes to elements: ![img](url){ .class }
+  - admonition        # Note/warning/tip boxes
+  - pymdownx.details  # Collapsible admonition blocks
+  - pymdownx.superfences
+  - tables
+  - pymdownx.emoji:   # Renders :material-icon: and :fontawesome-brands-icon: inline icons
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: "© 2026 Manjar Alam. All Rights Reserved."
+
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/Manjar-Alam
+
+  - icon: fontawesome/brands/linkedin
+    link: https://www.linkedin.com/in/manjar-alam
+
+  - icon: fontawesome/brands/google-scholar
+    link: https://scholar.google.com/citations?user=tfQJotIAAAAJ
+
+  - icon: fontawesome/brands/medium
+    link: https://medium.com/@Manjar-Alam
+
+  - icon: material/email
+    link: mailto:manjar.edu@gmail.com
+
+plugins:
+  - search
+  - meta
+  - mkdocs-jupyter
+
+nav:
+  - Home: index.md
+  #- About: about.md
+  - Experience: experience.md
+  - Projects: projects/project.md
+    #  - "Agricultural Remote Sensing": projects/agri-remote-sensing.md
+    #  - "Drone Image Processing": projects/drone-processing.md
+    #  - "Groundwater Recharge Mapping": projects/groundwater-recharge.md
+    #  - "Machine Learning Applications": projects/machine-learning.md
+    #  - "WebGIS Development": projects/webgis.md
+  - Research: publications.md
+  - Contact: contact.md
