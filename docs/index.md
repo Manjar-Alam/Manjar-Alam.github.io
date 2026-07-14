@@ -29,8 +29,7 @@ My research interests include **precision agriculture, groundwater recharge mapp
 <div class="about-image">
   <img src="assets/images/about.png" alt="About">
   <p>
-    Geo Innovation Challenge 2022 at National Institute of Hydrology, Roorkee.<br>
-    <strong>Presented Topic:</strong> Identification and Mapping of Surface Water Using Geospatial Technology.
+    Geo Innovation Challenge 2022 at National Institute of Hydrology, Roorkee.
 </p>
 </div>
 
