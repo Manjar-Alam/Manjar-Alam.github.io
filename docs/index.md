@@ -116,27 +116,12 @@ My research interests include **precision agriculture, groundwater recharge mapp
 
 
 ---
-<!-- 
-## Highlights
 
-- 3+ Years of Professional Experience
-- Young Professional-II at ICAR-IASRI
-- Former Project Assistant at ICAR-IARI
-- GIS Executive at Aptara Techbooks
-- 6+ Research Publications
-- Multiple International Journal Publications
-- Agricultural Remote Sensing Specialist
-- Drone Image Processing
-- Climate & Hydrological Modelling
-- Machine Learning for Geospatial Applications
 
----
--->
-<!-- 
 ## Connect
 
 [GitHub](https://github.com/Manjar-Alam){ .md-button }
 [LinkedIn](https://www.linkedin.com/in/manjar-alam){ .md-button }
 [Medium](https://medium.com/@Manjar-Alam){ .md-button }
 [Email](mailto:manjar.edu@gmail.com){ .md-button }
--->
+[Google Scholar Profile](https://scholar.google.com/citations?user=tfQJotIAAAAJ){ .md-button }
