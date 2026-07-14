@@ -12,7 +12,7 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
 ## 📚 Published Journal Articles
 
-!!! success "Identification of Groundwater Recharge Potential Zone Using Geospatial Approaches and Multi-Criteria Decision Models"
+!!! success "Identification of groundwater recharge potential zone using geospatial approaches and multi criteria decision models in Udham Singh Nagar district, Uttarakhand, India"
 
     **Journal:** *Advances in Space Research*
 
@@ -28,7 +28,7 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
 ---
 
-!!! success "Land Degradation Vulnerability Assessment in a Semi-Arid Ecosystem in India Using Geospatial Techniques: A Case Study of Nashik, Maharashtra"
+!!! success "Land Degradation Vulnerability Assessment in a Semi-arid Ecosystem in India Using Geospatial Techniques: A Case Study of Nashik, Maharashtra"
 
     **Book:** *Soil Degradation, Desertification and Restoration: Application of Geospatial Technology and Modeling*
 
@@ -38,21 +38,21 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
     **Impact Factor:** Not Applicable (Book Chapter)
 
-    [View Chapter](https://link.springer.com/chapter/10.1007/978-3-031-92277-0_9){ .md-button .md-button--primary }
+    [Read Article](https://link.springer.com/chapter/10.1007/978-3-031-92277-0_9){ .md-button .md-button--primary }
 
 ---
 
-!!! success "Analyzing Soil Loss Dynamics in the Indian Himalayan Region Using Geospatial Approach"
+!!! success "Analyzing soil loss dynamics in the Indian Himalayan Region using geospatial approach"
 
-    **Journal:** *Land Degradation & Development*
+    **Journal:** *Spatial Information Research*
 
-    **Publisher:** Wiley
+    **Publisher:** Springer Nature 
 
     **Status:** Published
 
-    **Impact Factor (2025):** **4.6**
+    **Impact Factor (2025):** **2.5**
 
-    **Quartile:** Q2
+    **Quartile:** Q3
 
     [Read Article](https://link.springer.com/article/10.1007/s41324-025-00667-4){ .md-button .md-button--primary }
 
@@ -67,7 +67,7 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
     **Status:** Published
 
-    **Impact Factor (2025):** **2.1**
+    **Impact Factor (2026):** **2.1**
 
     **Quartile:** Q3
 
@@ -79,15 +79,15 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
 !!! warning "Comparative Analysis on Groundwater Recharge Potential Zone Mapping Using Multi-Criteria Decision Making (MCDM) and Machine Learning (ML): A Comparison of AHP, ANP, Random Forest, and XGBoost"
 
-    **Journal:** *Remote Sensing (MDPI)*
+    **Journal:** 
 
-    **Publisher:** MDPI
+    **Publisher:** 
 
-    **Status:** Under Review
+    **Status:** 
 
-    **Impact Factor (2024):** **4.2**
+    **Impact Factor (2024):** 
 
-    **Quartile:** Q1
+    **Quartile:** 
 
 ---
 
@@ -95,7 +95,7 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
 !!! abstract "Geospatial and AHP Techniques for Selection of Potential Zones for Water Harvesting in Dehradun, Uttarakhand"
 
-    **Journal:** *Journal of Indian Water Resources Society*
+    **Journal:** *Indian Water Resources Society*
 
     **Conference:** IX International Groundwater Conference (IGWC-2022)
 
@@ -103,7 +103,7 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
     **Impact Factor:** Not Available
 
-    [View Paper](https://iwrs.org.in/43-1/){ .md-button .md-button--primary } 
+    [View Article](https://iwrs.org.in/43-1/){ .md-button .md-button--primary } 
 
 ---
 
@@ -119,4 +119,4 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
     **Impact Factor:** Not Applicable
    
-    [View Paper](assets/Hydro 2022 conference Paper.pdf){ .md-button .md-button--primary } 
+    [View Article](assets/Hydro 2022 conference Paper.pdf){ .md-button .md-button--primary } 

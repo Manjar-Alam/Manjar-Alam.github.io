@@ -154,7 +154,7 @@ production.
 
 ---
 
-### B.Sc. Geography
+### B.A./B.Sc. Geography
 
 **Jamia Millia Islamia**
 
@@ -168,12 +168,6 @@ production.
 **SVBP SBV Tughlakabad Extension, New Delhi**
 *2017*
 **Percentage:** 81%
----
-
-### Secondary (CBSE)
-**SVBP SBV Tughlakabad Extension, New Delhi**
-*2015*
-**Percentage:** 60%
 ---
 
 # Professional Certifications
