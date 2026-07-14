@@ -172,20 +172,37 @@ production.
 
 # Professional Certifications
 
-- Statistics for GIS Professionals
-- Drone Data Processing & Land Management
-- Geo Web App Building with Open Source Tools
-- Advanced Archaeological Remote Sensing
-- Canadian SAR Applications
-- UAV for Precision Agriculture
-- Google Earth Engine
-- Spatial Data Science
-- Geospatial Python Bootcamp
-- Climate Data Science & Modelling
-- ArcGIS
-- QGIS
-- Python for Geospatial Analysis
-- Cartography
-- IIRS Remote Sensing & GIS
+Continuous learning has been an integral part of my professional development in **Remote Sensing, GIS, WebGIS, Drone Technology, Python, Spatial Data Science, Climate Analytics, and Agricultural Applications**. Below are the professional courses and certifications I have completed.
+
+| Year | Certification | Provider | Certificate |
+|------|---------------|----------|-------------|
+| 2025 | Statistics for GIS Professionals | Udemy | [View Certificate](#) |
+| 2025 | Drones and Drone Data Processing using QGIS for Land Management | Centre of Excellence in Land Administration and Management (CELAM), Administrative Training Institute (ATI), Government of Karnataka | [View Certificate](#) |
+| 2025 | Geo Web App Building with Open Source Tools | Geoversity, University of Twente (ITC), Netherlands | [View Certificate](#) |
+| 2025 | Advanced Archaeological Remote Sensing: Site Prospection, Landscape Archaeology and Heritage Protection in the Middle East and North Africa | Durham University | [View Certificate](#) |
+| 2025 | Winter-Water-Warming: Canadian SAR Applications | EO College | [View Certificate](#) |
+| 2025 | Web GIS Development | Udemy | [View Certificate](#) |
+| 2025 | UAV for Precision Agriculture | Geoversity, University of Twente (ITC), Netherlands | [View Certificate](#) |
+| 2024 | 21 Days Advanced Simulation Modelling and Climate Change Research towards Knowledge-Based Agriculture (InfoCrop, DSSAT & APSIM) | ICAR–Indian Agricultural Research Institute (ICAR-IARI) | [View Certificate](#) |
+| 2024 | 12 Days Geospatial Python Bootcamp | TommysCodebase | [View Certificate](#) |
+| 2024 | Spatial Data Science: The New Frontier in Analytics | Esri | [View Certificate](#) |
+| 2024 | Climate Data Science & Modeling | GitHub Learning | [View Certificate](#) |
+| 2024 | Google Earth Engine | Spatial Thoughts | [View Certificate](#) |
+| 2023 | Spatial Analysis & Geospatial Data Science in Python | Udemy | [View Certificate](#) |
+| 2023 | Advanced Microsoft Excel | Simplilearn | [View Certificate](#) |
+| 2022 | Overview of Geoprocessing using Python | Indian Institute of Remote Sensing (IIRS) | [View Certificate](#) |
+| 2022 | Crop Yield Estimation using Remote Sensing and GIS (ArcGIS) | Udemy | [View Certificate](#) |
+| 2021 | ArcGIS Level 1: GIS, ArcMap & ArcCatalog | Udemy | [View Certificate](#) |
+| 2021 | ArcPy for ArcMap Level 1: Python Programming for ArcGIS | Udemy | [View Certificate](#) |
+| 2021 | Cartography MOOC (6 Weeks) | Esri | [View Certificate](#) |
+| 2020 | 21 Days Online GIS Training Program using QGIS | Department of Geography, School of Earth Sciences, Central University of Karnataka | [View Certificate](#) |
+| 2017 | Basics of Remote Sensing, GIS & GNSS | Indian Institute of Remote Sensing (IIRS) | [View Certificate](#) |
 
 ---
+
+### Certification Statistics
+
+- **Total Certifications:** 20+
+- **Training Areas:** Remote Sensing, GIS, WebGIS, Drone Technology, Python, Climate Science, Spatial Data Science, Agricultural Modelling
+- **Organizations:** Esri, IIRS, ICAR-IARI, University of Twente (ITC), Durham University, EO College, Udemy, Spatial Thoughts, Simplilearn, ATI Karnataka
+
