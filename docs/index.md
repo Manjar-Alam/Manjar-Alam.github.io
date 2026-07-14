@@ -28,7 +28,7 @@ My research interests include **precision agriculture, groundwater recharge mapp
 
 <div class="about-image">
   <img src="assets/images/about.png" alt="About">
-
+<p><a  target="_blank" rel="noopener">Geo Innovation Challenge 2022 at NIH, Roorkee.→</a></p>
 </div>
 
 </div>
