@@ -42,5 +42,5 @@ Created a thematic map illustrating India's agro-climatic regions based on clima
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[Esri Dataset](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[Esri Dataset](#LINK){ .md-button }

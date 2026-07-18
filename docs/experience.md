@@ -176,27 +176,30 @@ Continuous learning has been an integral part of my professional development in 
 
 | Year | Certification | Provider | Certificate |
 |------|---------------|----------|-------------|
-| 2025 | Statistics for GIS Professionals | Udemy | [View Certificate](#) |
-| 2025 | Drones and Drone Data Processing using QGIS for Land Management | Centre of Excellence in Land Administration and Management (CELAM), Administrative Training Institute (ATI), Government of Karnataka | [View Certificate](#) |
-| 2025 | Geo Web App Building with Open Source Tools | Geoversity, University of Twente (ITC), Netherlands | [View Certificate](#) |
-| 2025 | Advanced Archaeological Remote Sensing: Site Prospection, Landscape Archaeology and Heritage Protection in the Middle East and North Africa | Durham University | [View Certificate](#) |
-| 2025 | Winter-Water-Warming: Canadian SAR Applications | EO College | [View Certificate](#) |
-| 2025 | Web GIS Development | Udemy | [View Certificate](#) |
-| 2025 | UAV for Precision Agriculture | Geoversity, University of Twente (ITC), Netherlands | [View Certificate](#) |
-| 2024 | 21 Days Advanced Simulation Modelling and Climate Change Research towards Knowledge-Based Agriculture (InfoCrop, DSSAT & APSIM) | ICAR–Indian Agricultural Research Institute (ICAR-IARI) | [View Certificate](#) |
-| 2024 | 12 Days Geospatial Python Bootcamp | TommysCodebase | [View Certificate](#) |
-| 2024 | Spatial Data Science: The New Frontier in Analytics | Esri | [View Certificate](#) |
+| 2026 | Make an Impact with Modern Geo Apps | ESRI | [View Certificate](../assets/images/certification/Make an Impact with Modern Geo Apps_Certificate_05112026.pdf) |
+| 2025 | ADVANCED ARCHAEOLOGICAL REMOTE SENSING: SITE PROSPECTION, LANDSCAPE ARCHAEOLOGY AND HERITAGE PROTECTION IN THE MIDDLE EAST AND NORTH AFRICA | DURHAM UNIVERSITY | [View Certificate](../assets/images/certification/advanced-archaeological-remote-sensing_certificate_2026.pdf) |
+| 2025 | Statistics for GIS Professionals | Udemy | [View Certificate](#link) |
+| 2025 | Drones and Drone Data Processing | Centre of Excellence in Land Administration and Management (CELAM), Administrative Training Institute (ATI), Government of Karnataka | [View Certificate](#link) |
+| 2025 | QGIS for Land Management | Centre of Excellence in Land Administration and Management (CELAM), Administrative Training Institute (ATI), Government of Karnataka | [View Certificate](../assets/images/certification/QGIS for Land Management_certificate_2025.png) |
+| 2025 | Geo Web App Building with Open Source Tools | Geoversity, University of Twente (ITC), Netherlands | [View Certificate](../assets/images/certification/Geo Web ITC_2025.pdf) |
+| 2025 | Winter-Water-Warming: Canadian SAR Applications | EO College | [View Certificate](../assets/images/certification/WINTER-WATER-WARMING CANADIAN SAR APPLICATION_2025.pdf) |
+| 2025 | Web GIS Development | Udemy | [View Certificate](../assets/images/certification/WEBGIS UDEMY_2025.pdf)|
+| 2025 | UAV for Precision Agriculture | Geoversity, University of Twente (ITC), Netherlands | [View Certificate](../assets/images/certification/itc_uavs-in-precision-agriculture-certificate-of-attendance_2025.pdf) |
+| 2024 | 21 Days Advanced Simulation Modelling and Climate Change Research towards Knowledge-Based Agriculture (InfoCrop, DSSAT & APSIM) | ICAR–Indian Agricultural Research Institute (ICAR-IARI) | [View Certificate](../assets/images/certification/icar_training_2024.pdf) |
+| 2024 | 12 Days Geospatial Python Bootcamp | TommysCodebase | [View Certificate](../assets/images/certification/geospatial bootcamp_2024.pdf) |
+| 2024 | Spatial Data Science: The New Frontier in Analytics | ESRI | [View Certificate](../assets/images/certification/Spatial Data Science_ The New Frontier in Analytics_Certificate_10152024.pdf) |
 | 2024 | Climate Data Science & Modeling | GitHub Learning | [View Certificate](#) |
 | 2024 | Google Earth Engine | Spatial Thoughts | [View Certificate](#) |
-| 2023 | Spatial Analysis & Geospatial Data Science in Python | Udemy | [View Certificate](#) |
+| 2023 | Spatial Analysis & Geospatial Data Science in Python | Udemy | [View Certificate](#link) |
 | 2023 | Advanced Microsoft Excel | Simplilearn | [View Certificate](#) |
-| 2022 | Overview of Geoprocessing using Python | Indian Institute of Remote Sensing (IIRS) | [View Certificate](#) |
 | 2022 | Crop Yield Estimation using Remote Sensing and GIS (ArcGIS) | Udemy | [View Certificate](#) |
-| 2021 | ArcGIS Level 1: GIS, ArcMap & ArcCatalog | Udemy | [View Certificate](#) |
+| 2021 | Overview of Geoprocessing using Python | Indian Institute of Remote Sensing (IIRS) | [View Certificate](../assets/images/certification/iirs_geoprocessing_python_certificate_2021941441058.pdf) |
 | 2021 | ArcPy for ArcMap Level 1: Python Programming for ArcGIS | Udemy | [View Certificate](#) |
-| 2021 | Cartography MOOC (6 Weeks) | Esri | [View Certificate](#) |
-| 2020 | 21 Days Online GIS Training Program using QGIS | Department of Geography, School of Earth Sciences, Central University of Karnataka | [View Certificate](#) |
-| 2017 | Basics of Remote Sensing, GIS & GNSS | Indian Institute of Remote Sensing (IIRS) | [View Certificate](#) |
+| 2021 | ArcGIS Level 1: GIS, ArcMap & ArcCatalog | Udemy | [View Certificate](#) |
+| 2021 | Cartography MOOC (6 Weeks) | ESRI | [View Certificate](../assets/images/certification/Cartography_03122021.pdf) |
+| 2020 | 21 Days Online GIS Training Program using QGIS | Department of Geography, School of Earth Sciences, Central University of Karnataka | [View Certificate](../assets/images/certification/CUK_21 days Online GIS Training Program using QGIS_2020.pdf) |
+| 2017 | Basics of Remote Sensing, GIS & GNSS | Indian Institute of Remote Sensing (IIRS) | [View Certificate](../assets/images/certification/iirs_2017_RS_GIS_GNS.png)|
+
 
 ---
 
