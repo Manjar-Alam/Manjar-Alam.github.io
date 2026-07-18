@@ -43,4 +43,4 @@ Performed temporal analysis of NDVI to monitor seasonal vegetation dynamics and 
 ## Links
 
 [View Project](#LINK){ .md-button }
-[Copernicu Data Space](https://browser.dataspace.copernicus.eu/){ .md-button }
+[Copernicus Data Space](https://browser.dataspace.copernicus.eu/){ .md-button }
