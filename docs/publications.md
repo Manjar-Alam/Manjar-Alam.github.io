@@ -103,7 +103,7 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
     **Impact Factor:** Not Available
 
-    [View Article](https://iwrs.org.in/43-1/){ .md-button .md-button--primary } 
+    [Read Article](https://iwrs.org.in/43-1/){ .md-button .md-button--primary } 
 
 ---
 
@@ -119,4 +119,4 @@ My research focuses on **Remote Sensing, GIS, Precision Agriculture, Hydrology, 
 
     **Impact Factor:** Not Applicable
    
-    [View Article](assets/Hydro 2022 conference Paper.pdf){ .md-button .md-button--primary } 
+    [Read Article](assets/Hydro 2022 conference Paper.pdf){ .md-button .md-button--primary } 
