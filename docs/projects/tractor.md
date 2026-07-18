@@ -42,5 +42,5 @@ Created a thematic map to visualize state-wise tractor sales across India using 
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[Government Open Data](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[Government Open Data](#LINK){ .md-button }

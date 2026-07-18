@@ -43,5 +43,5 @@ Processed long-term climate datasets to calculate seasonal average rainfall and 
 
 ## Links
 
-[View Code](LINK){ .md-button }
-[IMD Climate Data](LINK){ .md-button }
+[View Code](#LINK){ .md-button }
+[IMD Climate Data](https://imdlib.readthedocs.io/en/latest/){ .md-button }

@@ -42,5 +42,5 @@ Developed an interactive ArcGIS Online application to visualize global plate bou
 
 ## Links
 
-[View Instant App](LINK){ .md-button }
-[USGS Earthquake Catalog](LINK){ .md-button }
+[View Instant App](#LINK){ .md-button }
+[USGS Earthquake Catalog](#LINK){ .md-button }

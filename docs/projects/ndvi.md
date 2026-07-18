@@ -42,5 +42,5 @@ Computed the Normalized Difference Vegetation Index (NDVI) from satellite imager
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[View Dataset Catalog](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[View Dataset Catalog](https://browser.dataspace.copernicus.eu/){ .md-button }

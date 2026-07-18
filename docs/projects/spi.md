@@ -43,5 +43,5 @@ Developed a Python-based workflow to calculate the Standardized Precipitation In
 
 ## Links
 
-[View Code](LINK){ .md-button }
-[IMD Data](LINK){ .md-button }
+[View Code](#LINK){ .md-button }
+[IMD Data](https://imdlib.readthedocs.io/en/latest/){ .md-button }

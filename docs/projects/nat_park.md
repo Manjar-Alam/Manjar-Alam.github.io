@@ -44,5 +44,5 @@ Developed an interactive ArcGIS StoryMap showcasing scenic trails, natural lands
 
 ## Links
 
-[View StoryMap](LINK){ .md-button }
-[View Dataset Catalog](LINK){ .md-button }
+[View StoryMap](#LINK){ .md-button }
+[View Dataset Catalog](#LINK){ .md-button }

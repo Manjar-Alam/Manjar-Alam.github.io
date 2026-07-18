@@ -41,5 +41,5 @@ Built an interactive ArcGIS Dashboard to visualize flight delays and cancellatio
 
 ## Links
 
-[View Dashboard](LINK){ .md-button }
-[Dataset](LINK){ .md-button }
+[View Dashboard](#LINK){ .md-button }
+[Dataset](#LINK){ .md-button }

@@ -41,5 +41,5 @@ Created a systematic spatial sampling grid to generate uniformly distributed sam
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[ESRI Documentation](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[ESRI Documentation](https://www.esri.com/arcgis-blog/products/arcgis-pro/design-planning/introducing-create-spatial-sampling-locations-tool-in-arcgis-pro-3-3){ .md-button }

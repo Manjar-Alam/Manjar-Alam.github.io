@@ -43,5 +43,5 @@ Created an interactive StoryMap showcasing important locations, historical landm
 
 ## Links
 
-[View StoryMap](LINK){ .md-button }
-[View Dataset Catalog](LINK){ .md-button }
+[View StoryMap](#LINK){ .md-button }
+[View Dataset Catalog](#LINK){ .md-button }

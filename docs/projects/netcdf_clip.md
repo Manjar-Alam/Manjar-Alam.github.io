@@ -45,5 +45,5 @@ Developed a Python workflow to clip large NetCDF datasets using administrative b
 
 ## Links
 
-[View Code](LINK){ .md-button }
-[Medium Article](LINK){ .md-button }
+[View Code](#LINK){ .md-button }
+[Medium Article](https://medium.com/@Manjar-Alam/clipping-and-visualizing-netcdf-data-using-python-84dfbbbce0a5){ .md-button }

@@ -42,5 +42,5 @@ Implemented a spatial regridding workflow to convert coarse-resolution IMD tempe
 
 ## Links
 
-[View Code](LINK){ .md-button }
-[IMD Climate Data](LINK){ .md-button }
+[View Code](#LINK){ .md-button }
+[IMD Climate Data](https://imdlib.readthedocs.io/en/latest/){ .md-button }

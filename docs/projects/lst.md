@@ -43,4 +43,4 @@ Derived Land Surface Temperature (LST) from thermal satellite imagery to analyze
 ## Links
 
 [View Project](LINK){ .md-button }
-[USGS](LINK){ .md-button }
+[USGS](https://earthexplorer.usgs.gov/){ .md-button }

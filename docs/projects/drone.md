@@ -44,5 +44,5 @@ Processed UAV imagery to assess crop health using vegetation indices and generat
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[View Dataset Catalog](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[View Dataset Catalog](https://www.geoversity.io/){ .md-button }

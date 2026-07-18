@@ -40,5 +40,5 @@ Developed a high-resolution terrain visualization of Bali Island using SRTM Digi
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[SRTM Data](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[SRTM Data](https://earthexplorer.usgs.gov/){ .md-button }

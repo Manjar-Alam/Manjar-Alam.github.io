@@ -44,5 +44,5 @@ Developed a Streamlit-based interactive dashboard to visualize and compare popul
 
 ## Links
 
-[View Dashboard](LINK){ .md-button }
-[World Bank Data](LINK){ .md-button }
+[View Dashboard](#LINK){ .md-button }
+[World Bank Data](#LINK){ .md-button }

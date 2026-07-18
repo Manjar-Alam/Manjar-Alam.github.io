@@ -40,5 +40,5 @@ Performed georeferencing of scanned maps using ground control points and digitiz
 
 ## Links
 
-[View Projet](LINK){ .md-button }
-[Esri Documentation](LINK){ .md-button }
+[View Projet](#LINK){ .md-button }
+[Esri Documentation](https://doc.esri.com/en/arcgis-pro/latest/help/data/imagery/overview-of-georeferencing.html){ .md-button }

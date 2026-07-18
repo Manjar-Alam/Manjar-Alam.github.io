@@ -42,5 +42,5 @@ Generated a False Color Composite (FCC) using multispectral satellite imagery to
 
 ## Links
 
-[View Project](LINK){ .md-button }
-[View Dataset Catalog](LINK){ .md-button }
+[View Project](#LINK){ .md-button }
+[View Dataset Catalog](https://browser.dataspace.copernicus.eu/){ .md-button }
