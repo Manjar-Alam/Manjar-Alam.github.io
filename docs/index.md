@@ -36,7 +36,7 @@ My research interests include **precision agriculture, groundwater recharge mapp
 ---
 
 
-[Explore My Projects :material-arrow-right:](projects/project.md){ .md-button .md-button--primary }
+[Explore My Projects ::material-folder-open:](projects/project.md){ .md-button .md-button--primary }
 [Explore My Publications :material-book-open-page-variant:](publications.md){ .md-button }
 [Download CV :material-download:](assets/Manjar_Alam_CV.pdf){ .md-button }
 
