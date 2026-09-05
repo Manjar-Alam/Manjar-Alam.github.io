@@ -113,32 +113,6 @@ Performed georeferencing of scanned maps using ground control points and digitiz
 [View Project →](georef.md){ .md-button }
 </div>
 
- <!-- #proj9 -->
-<div class="project-card" markdown>
-![](../assets/images/tractor.png)
-
-**[State-wise Annual Tractor Sales Mapping](tractor.md)**
-
-Created a thematic map to visualize state-wise tractor sales across India using proportional symbols and spatial analysis techniques. The project highlights regional patterns of agricultural mechanization and supports comparative analysis of farming development.
-
-`Choropleth ` `Symbology` `Theme` `Statistics`
-
-[View Project →](tractor.md){ .md-button }
-</div>
-
- <!-- #proj10 -->
-<div class="project-card" markdown>
-![](../assets/images/agro.png)
-
-**[Agro-Climatic Regions of India](agro.md)**
-
-Created a thematic map illustrating India's agro-climatic regions based on climate, topography, soil, and vegetation characteristics. The map supports agricultural planning, crop suitability assessment, and regional resource management.
-
-`Climate` `Agriculture`
-
-[View Project →](agro.md){ .md-button }
-</div>
-
  <!-- #proj11 -->
 <div class="project-card" markdown>
 ![](../assets/images/storyMap.png)
@@ -150,19 +124,6 @@ Created an interactive StoryMap showcasing important locations, historical landm
 `ArcGIS Online` `Tourism` `Heritage` 
 
 [View Project →](storyMap.md){ .md-button }
-</div>
-
- <!-- #proj12 -->
-<div class="project-card" markdown>
-![](../assets/images/earthquake.png)
-
-**[Plate Tectonics and Earthquakes](earthquake.md)**
-
-Developed an interactive ArcGIS Online application to visualize global plate boundaries and earthquake events. The application helps users explore the relationship between tectonic plates and seismic activity through an interactive web interface.
-
-`ArcGIS Online` `Instant Apps` `Earthquake` 
-
-[View Project →](earthquake.md){ .md-button }
 </div>
 
  <!-- #proj13 -->
@@ -280,20 +241,4 @@ Developed an interactive ArcGIS StoryMap showcasing scenic trails, natural lands
 `AEF Embeddings` `Google Earth Engine`
 
 [View Project →](nat_park.md){ .md-button }
-</div>
-
-
- <!-- #proj21 
-<div class="project-card" markdown>
-![](../assets/images/project1-cover.png)
-
-**[State-wise Annual Tractor Sales Mapping](satellite-embedding-project.md)**
-
-Created a thematic map to visualize state-wise tractor sales across India using proportional symbols and spatial analysis techniques. The project highlights regional patterns of agricultural mechanization and supports comparative analysis of farming development.
-
-`AEF Embeddings` `Google Earth Engine`
-
-[View Project →](satellite-embedding-project.md){ .md-button }
-</div>
--->
 </div>
