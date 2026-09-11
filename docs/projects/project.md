@@ -238,7 +238,7 @@ Developed a high-resolution terrain visualization of Bali Island using SRTM Digi
 
 Developed an interactive ArcGIS StoryMap showcasing scenic trails, natural landscapes, and key points of interest within Rocky Mountain National Park. The project combines maps, multimedia, and narrative content to create an engaging digital storytelling experience that enhances visitor exploration and geographic understanding.
 
-`AEF Embeddings` `Google Earth Engine`
+`ArcGIS StoryMaps` `ArcGIS Online`
 
 [View Project →](nat_park.md){ .md-button }
 </div>
