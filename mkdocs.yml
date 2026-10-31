@@ -7,7 +7,7 @@ site_name: "Manjar's Geospatial Portfolio"
 site_description: "Portfolio of Manjar Alam — Remote Sensing and GIS Professional"
 site_author: "Manjar Alam"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-site_url: "https://Manjar-Alam/github.io"
+site_url: "https://manjar-alam.github.io/"
 
 theme:
   name: material

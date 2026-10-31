@@ -16,7 +16,7 @@ Feel free to connect with me through any of the platforms below.
 | | |
 |---|---|
 | :material-email: **Email** | [manjar.edu@gmail.com](mailto:manjar.edu@gmail.com) |
-| :material-phone: **Phone** | [+91 9810841359](tel:+919810841359) |
+| :material-phone: **Phone** | [+91-9810841359](tel:+91-9810841359) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/manjar-alam](https://www.linkedin.com/in/manjar-alam) |
 | :fontawesome-brands-github: **GitHub** | [github.com/Manjar-Alam](https://github.com/Manjar-Alam) |
 | :fontawesome-brands-medium: **Medium** | [medium.com/@Manjar-Alam](https://medium.com/@Manjar-Alam) |
