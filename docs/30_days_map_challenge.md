@@ -19,7 +19,7 @@ Explore the map gallery below. Select **View Project** to learn about the object
 
 <!-- Day 01 -->
 <div class="project-card" markdown>
-![Delhi Points of Interest](30_day_map/maps_png/day_1_points.png)
+![A Spatial Portrait of Delhi](30_day_map/maps_png/day_1_points.png)
 
 **[Day 1. Points](30_day_map/maps_md/day-01.md)**
 
@@ -31,19 +31,19 @@ A Spatial Portrait of Delhi.
 [View Project](30_day_map/maps_md/day-01.md){ .md-button }
 </div>
 
-<!-- Day 02 
+<!-- Day 02 -->
 <div class="project-card" markdown>
-![Delhi Road Network](30_day_map/maps_png/Day02_Delhi_Road_Network.png)
+![Delhi Points of Interest](30_day_map/maps_png/coming_soon.png)
 
-**[Day 02 — Delhi Road Network](30_day_map/maps_md/day-02.md)**
+**[Day 2. Lines](30_day_map/maps_md/day-01.md)**
 
-Visualize Delhi's road network and explore its spatial structure and connectivity.
 
-`Transportation` `Network Mapping` `GIS`
+Lines.
 
-[View Project →](30_day_map/maps_md/day-02.md){ .md-button }
+ `Test1` `Test2 ` `Test3`
+
+[View Project](30_day_map/maps_md/day-02.md){ .md-button }
 </div>
--->
 
 </div>
 

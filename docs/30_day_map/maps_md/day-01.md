@@ -35,7 +35,7 @@ This project explores Delhi through its mapped points of interest, illustrating 
 **Tools Used**
 
 * QGIS, ArcGIS Pro
-* Python (GeoPandas, Pandas, Matplotlib, Folium) [View Python Notebook](https://github.com/Manjar-Alam/Manjar-Alam.github.io/blob/main/docs/30_day_map/maps_code/day_1_point.ipynb){:target="_blank"}
+* Python (GeoPandas, Pandas, Matplotlib, Folium) [Python Notebook](#Link)
 
 ## Key takeaways
 
