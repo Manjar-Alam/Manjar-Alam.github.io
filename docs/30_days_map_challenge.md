@@ -33,14 +33,14 @@ A Spatial Portrait of Delhi.
 
 <!-- Day 02 -->
 <div class="project-card" markdown>
-![Delhi Points of Interest](30_day_map/maps_png/coming_soon.png)
+![The Ganga: A River and Its Tributaries](30_day_map/maps_png/day_2_lines.png)
 
 **[Day 2. Lines](30_day_map/maps_md/day-01.md)**
 
 
-Lines.
+The Ganga: A River and Its Tributaries
 
- `Test1` `Test2 ` `Test3`
+ `River` `Hydrology` `Ganga`
 
 [View Project](30_day_map/maps_md/day-02.md){ .md-button }
 </div>
