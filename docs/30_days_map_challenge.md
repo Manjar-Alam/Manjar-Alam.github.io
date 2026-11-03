@@ -47,6 +47,20 @@ The Ganga: A River and Its Tributaries
 
 </div>
 
+<!-- Day 03 -->
+<div class="project-card" markdown>
+![Beyond the Shore: Mapping Coastal Distance](30_day_map/maps_png/day_3_polygons.png)
+
+**[Day 3. Polygons](30_day_map/maps_md/day-03.md)**
+
+
+Beyond the Shore: Mapping Coastal Distance
+
+ `Coastline` `Cartography` `Denmark`
+
+[View Project](30_day_map/maps_md/day-03.md){ .md-button }
+</div>
+
 ---
 
 ## Explore the Maps
