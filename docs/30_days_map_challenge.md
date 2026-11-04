@@ -61,6 +61,20 @@ Beyond the Shore: Mapping Coastal Distance
 [View Project](30_day_map/maps_md/day-03.md){ .md-button }
 </div>
 
+<!-- Day 04 -->
+<div class="project-card" markdown>
+![Satellite-based active fire mapping and spatial clustering](30_day_map/maps_png/day_4_clusters.png)
+
+**[Day 4. Clusters](30_day_map/maps_md/day-04.md)**
+
+
+Satellite-based active fire mapping and spatial clustering
+
+ `Clusters` `India` `Fire`
+
+[View Project](30_day_map/maps_md/day-04.md){ .md-button }
+</div>
+
 ---
 
 ## Explore the Maps
