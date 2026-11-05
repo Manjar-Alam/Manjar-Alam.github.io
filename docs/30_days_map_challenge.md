@@ -5,7 +5,7 @@ hide:
 ---
 
 <div align="center" markdown> 
-# 30-Day Map Challenge
+# #30DayMapChallenge
 
 A collection of 30 days of geospatial exploration, combining GIS, Remote Sensing, Python, spatial analysis, interactive mapping, and cartographic design. Each map explores a different geographical theme, from urban networks and land use to vegetation, climate, terrain, hydrology, and global connectivity.
 
@@ -45,8 +45,6 @@ The Ganga: A River and Its Tributaries
 [View Project](30_day_map/maps_md/day-02.md){ .md-button }
 </div>
 
-</div>
-
 <!-- Day 03 -->
 <div class="project-card" markdown>
 ![Beyond the Shore: Mapping Coastal Distance](30_day_map/maps_png/day_3_polygons.png)
@@ -75,8 +73,23 @@ Satellite-based active fire mapping and spatial clustering
 [View Project](30_day_map/maps_md/day-04.md){ .md-button }
 </div>
 
+<!-- Day 05 -->
+<div class="project-card" markdown>
+![3D terrain visualization and elevation mapping](30_day_map/maps_png/day_5_sight.png)
+
+**[Day 5. Sight](30_day_map/maps_md/day-05.md)**
+
+
+3D terrain visualization and elevation mapping
+
+ `terrain` `sight` `Uttarakhand` `elevation` 
+
+[View Project](30_day_map/maps_md/day-05.md){ .md-button }
+</div>
+
+
 ---
 
 ## Explore the Maps
-
+</div>
 Each project page provides a summary of the map, its methods and tools, and links to the interactive HTML output and source code where available. The gallery is a showcase of geospatial learning, experimentation, and cartographic design.
