@@ -1,6 +1,6 @@
 
 # Day 5.  The Visible Himalayas
-![Project overview image](/30_day_map/maps_png/day_3_polygons.png)
+![Project overview image](/30_day_map/maps_png/day_5_sight.png)
 ## Overview
 
 - **Theme:** Sight
