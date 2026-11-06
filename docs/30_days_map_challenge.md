@@ -87,6 +87,19 @@ Satellite-based active fire mapping and spatial clustering
 [View Project](30_day_map/maps_md/day-05.md){ .md-button }
 </div>
 
+<!-- Day 06 -->
+<div class="project-card" markdown>
+![The British Isles: An Illustrated Geographical Portrait](30_day_map/maps_png/day_6_vintage.png)
+
+**[Day 6. Vintage](30_day_map/maps_md/day-06.md)**
+
+
+The British Isles: An Illustrated Geographical Portrait
+
+ `Vintage` `United Kingdom` `Thematic` `Cartography` 
+
+[View Project](30_day_map/maps_md/day-06.md){ .md-button }
+</div>
 
 ---
 
