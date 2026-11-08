@@ -101,11 +101,11 @@ The British Isles: An Illustrated Geographical Portrait
 [View Project](30_day_map/maps_md/day-06.md){ .md-button }
 </div>
 
-<!-- 10 Minute Map -->
+<!-- Day 7 -->
 <div class="project-card" markdown>
 ![The British Isles: An Illustrated Geographical Portrait](30_day_map/maps_png/day_7_10min.png)
 
-**[Day 10, Minute Map](30_day_map/maps_md/day-07.md)**
+**[Day 7. 10MinuteMap](30_day_map/maps_md/day-07.md)**
 
 
 India in One Colour
@@ -113,6 +113,20 @@ India in One Colour
  `10MinuteMap` `India` `Cartography` 
 
 [View Project](30_day_map/maps_md/day-07.md){ .md-button }
+</div>
+
+<!-- Day 8 -->
+<div class="project-card" markdown>
+![UTOPIA: The Garden City](30_day_map/maps_png/day_8_utopia.png)
+
+**[Day 8. UTOPIA](30_day_map/maps_md/day-08.md)**
+
+
+The Garden City
+
+ `Utopia` `Singapore` `Green-Space` 
+
+[View Project](30_day_map/maps_md/day-08.md){ .md-button }
 </div>
 ---
 
