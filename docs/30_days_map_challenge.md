@@ -143,6 +143,21 @@ India After Dark
 [View Project](30_day_map/maps_md/day-09.md){ .md-button }
 </div>
 
+<!-- Day 10 -->
+<div class="project-card" markdown>
+![Prompting Only](30_day_map/maps_png/day_10_prompting.png)
+
+**[Day 10. Prompting Only](30_day_map/maps_md/day-10.md)**
+
+
+Prompting: Access to parks and green spaces
+
+ `Prompting` `QGIS` `TerraLab` 
+
+[View Project](30_day_map/maps_md/day-10.md){ .md-button }
+</div>
+
+
 ---
 ## Explore the Maps
 </div>
