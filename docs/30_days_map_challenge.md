@@ -128,8 +128,22 @@ The Garden City
 
 [View Project](30_day_map/maps_md/day-08.md){ .md-button }
 </div>
----
 
+<!-- Day 9 -->
+<div class="project-card" markdown>
+![Urban to Rural: India After Dark](30_day_map/maps_png/day_9_urban_rural.png)
+
+**[Day 9. Urban-Rural](30_day_map/maps_md/day-09.md)**
+
+
+India After Dark
+
+ `Dark` `Urban-Rural` `Nighttime` 
+
+[View Project](30_day_map/maps_md/day-09.md){ .md-button }
+</div>
+
+---
 ## Explore the Maps
 </div>
 Each project page provides a summary of the map, its methods and tools, and links to the interactive HTML output and source code where available. The gallery is a showcase of geospatial learning, experimentation, and cartographic design.
