@@ -157,6 +157,20 @@ Prompting: Access to parks and green spaces
 [View Project](30_day_map/maps_md/day-10.md){ .md-button }
 </div>
 
+<!-- Day 11 -->
+<div class="project-card" markdown>
+![Sound](30_day_map/maps_png/day_11_sound.png)
+
+**[Day 11. Sound](30_day_map/maps_md/day-11.md)**
+
+
+Sound: THE SOUND OF DELHI
+
+ `Sound` `Uraban` `Delhi` 
+
+[View Project](30_day_map/maps_md/day-11.md){ .md-button }
+</div>
+
 
 ---
 ## Explore the Maps
