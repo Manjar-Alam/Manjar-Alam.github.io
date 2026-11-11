@@ -171,6 +171,20 @@ Sound: THE SOUND OF DELHI
 [View Project](30_day_map/maps_md/day-11.md){ .md-button }
 </div>
 
+<!-- Day 12 -->
+<div class="project-card" markdown>
+![Power](30_day_map/maps_png/day_12_power.png)
+
+**[Day 12. Power](30_day_map/maps_md/day-12.md)**
+
+
+Power: THE WORLD POWERED-Who Consumes the Most Electricity?
+
+ `Power` `Electricity` `Global` 
+
+[View Project](30_day_map/maps_md/day-12.md){ .md-button }
+</div>
+
 
 ---
 ## Explore the Maps
