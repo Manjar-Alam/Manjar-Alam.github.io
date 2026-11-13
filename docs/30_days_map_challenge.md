@@ -186,6 +186,21 @@ Power: THE WORLD POWERED-Who Consumes the Most Electricity?
 </div>
 
 
+<!-- Day 13 -->
+<div class="project-card" markdown>
+![Interactions](30_day_map/maps_png/Day13_Interactions.png)
+
+**[Day 13. Interactions](30_day_map/maps_md/day-13.md)**
+
+
+Interactions: India by Air
+
+ `Air` `Interactions` `India`  
+
+[View Project](30_day_map/maps_md/day-13.md){ .md-button }
+</div>
+
+
 ---
 ## Explore the Maps
 </div>
