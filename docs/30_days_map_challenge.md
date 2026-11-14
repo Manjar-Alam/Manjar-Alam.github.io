@@ -202,7 +202,7 @@ Interactions: India by Air
 
 <!-- Day 14 -->
 <div class="project-card" markdown>
-![Borgesian Map](30_day_map/maps_png/day_14_borgesian.png)
+![Borgesian Map](30_day_map/maps_png/day_14_borgesian_map.png)
 
 **[Day 14. Borgesian Map](30_day_map/maps_md/day-14.md)**
 

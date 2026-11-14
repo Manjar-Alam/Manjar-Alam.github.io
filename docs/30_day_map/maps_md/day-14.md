@@ -1,6 +1,6 @@
 
 # Day 14. Borgesian map, Russia: The Map That Became the Territory
-![Project overview image](/30_day_map/maps_png/day_14_borgesian.png)
+![Project overview image](/30_day_map/maps_png/day_14_borgesian_map.png)
 ## Overview
 
 - **Theme:** Borgesian Map
