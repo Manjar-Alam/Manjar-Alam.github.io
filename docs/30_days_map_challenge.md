@@ -200,6 +200,20 @@ Interactions: India by Air
 [View Project](30_day_map/maps_md/day-13.md){ .md-button }
 </div>
 
+<!-- Day 14 -->
+<div class="project-card" markdown>
+![Borgesian Map](30_day_map/maps_png/day_14_borgesian.png)
+
+**[Day 14. Borgesian Map](30_day_map/maps_md/day-14.md)**
+
+
+Borgesian map, Russia: The Map That Became the Territory
+
+ `Borgesian` `Russia` `Cartography`  
+
+[View Project](30_day_map/maps_md/day-14.md){ .md-button }
+</div>
+
 
 ---
 ## Explore the Maps
