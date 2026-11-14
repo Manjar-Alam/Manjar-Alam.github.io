@@ -214,6 +214,20 @@ Borgesian map, Russia: The Map That Became the Territory
 [View Project](30_day_map/maps_md/day-14.md){ .md-button }
 </div>
 
+<!-- Day 15 -->
+<div class="project-card" markdown>
+![Inside Out](30_day_map/maps_png/day_15_inside_out.png)
+
+**[Day 15. Inside Out](30_day_map/maps_md/day-15.md)**
+
+
+Chilika Lake: Beneath the Surface
+
+ `Bathemetry` `Lake` `3D`  
+
+[View Project](30_day_map/maps_md/day-15.md){ .md-button }
+</div>
+
 
 ---
 ## Explore the Maps
