@@ -229,6 +229,21 @@ Chilika Lake: Beneath the Surface
 </div>
 
 
+<!-- Day 16 -->
+<div class="project-card" markdown>
+![Collaborative Map](30_day_map/maps_png/day_16_collaborative.png)
+
+**[Day 16. Collaborative Map](30_day_map/maps_md/day-16.md)**
+
+
+Places We Dream of Visiting
+
+ `Webgis` `Global` `Collaborative`  
+
+[View Project](30_day_map/maps_md/day-16.md){ .md-button }
+</div>
+
+
 ---
 ## Explore the Maps
 </div>
