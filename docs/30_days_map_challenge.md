@@ -243,6 +243,20 @@ Places We Dream of Visiting
 [View Project](30_day_map/maps_md/day-16.md){ .md-button }
 </div>
 
+<!-- Day 17 -->
+<div class="project-card" markdown>
+![Light & Dark](30_day_map/maps_png/day_17_light_dark.png)
+
+**[Day 17. Light & Dark](30_day_map/maps_md/day-17.md)**
+
+
+ANTARCTICA: BETWEEN LIGHT & DARK
+
+ `Antarctica` `Cartography` `LIGHT & DARK`  
+
+[View Project](30_day_map/maps_md/day-17.md){ .md-button }
+</div>
+
 
 ---
 ## Explore the Maps
