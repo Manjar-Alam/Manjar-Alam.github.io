@@ -257,7 +257,19 @@ ANTARCTICA: BETWEEN LIGHT & DARK
 [View Project](30_day_map/maps_md/day-17.md){ .md-button }
 </div>
 
+<!-- Day 18 -->
+<div class="project-card" markdown>
+![Null](30_day_map/maps_png/day_18_null.png)
 
+**[Day 18. Null](30_day_map/maps_md/day-18.md)**
+
+
+THE EMPTY PIXEL: A Geography of Missing Information
+
+ `Null` `Uttarakhand` `Satellite`  
+
+[View Project](30_day_map/maps_md/day-18.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
