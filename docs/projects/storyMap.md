@@ -1,6 +1,13 @@
 # Explore Delhi – ArcGIS StoryMap
 
-![Project overview image](../assets/images/storyMap.png)
+<iframe
+    src="/projects/data/storyMap.pdf"
+    width="100%"
+    height="700px"
+    style="border:none; border-radius:8px;">
+</iframe>
+
+[Open Full Presentation](/projects/data/storyMap.pdf){ .md-button }
 
 ## Overview
 

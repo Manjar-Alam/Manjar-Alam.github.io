@@ -1,6 +1,12 @@
 # Flight Delay and Cancellation Dashboard
+<iframe
+    src="/projects/data/flight delays_arcgis_dashboard.pdf"
+    width="100%"
+    height="700px"
+    style="border:none; border-radius:8px;">
+</iframe>
 
-![Project overview image](../assets/images/flight.png)
+[Open Full Presentation](/projects/data/flight delays_arcgis_dashboard.pdf){ .md-button }
 
 ## Overview
 

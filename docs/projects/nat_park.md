@@ -1,6 +1,13 @@
 # Mindful Walks in Rocky Mountain National Park
 
-![Project overview image](../assets/images/nat_park.png)
+<iframe
+    src="/projects/data/Mindful_Walks_in_Rocky_Mountain_National_Park.pdf"
+    width="100%"
+    height="700px"
+    style="border:none; border-radius:8px;">
+</iframe>
+
+[Open Full Presentation](/projects/data/Mindful_Walks_in_Rocky_Mountain_National_Park.pdf){ .md-button }
 
 ## Overview
 

@@ -1,7 +1,5 @@
 # Interactive World Population Dashboard
 
-![Project overview image](../assets/images/population.png)
-
 ## Overview
 
 Developed a Streamlit-based interactive dashboard to visualize and compare population statistics across countries. The application enables users to explore demographic trends through dynamic charts, maps, and user-friendly visualizations.
@@ -15,7 +13,16 @@ Developed a Streamlit-based interactive dashboard to visualize and compare popul
 **Status:** Completed
 
 ---
+## Interactive map
 
+<iframe
+  src="https://manjar-worldpopulationdashboard.streamlit.app//?embed=true"
+  width="100%"
+  height="750"
+  style="border:1px solid #ddd; border-radius:8px;">
+</iframe>
+
+[Open Collaborative Map Application](https://manjar-worldpopulationdashboard.streamlit.app//){:target="_blank"}
 
 
 ## Methods & Tools

@@ -232,13 +232,40 @@ Developed a high-resolution terrain visualization of Bali Island using SRTM Digi
 
  <!-- #proj21 -->
 <div class="project-card" markdown>
-![](../assets/images/nat_park.png)
+![](../assets/images/crop_monitoring_survey123.png)
 
-**[Mindful Walks in Rocky Mountain National Park](nat_park.md)**
+**[Crop Monitoring Field Survey](crop_monitoring_survey123.md)**
 
-Developed an interactive ArcGIS StoryMap showcasing scenic trails, natural landscapes, and key points of interest within Rocky Mountain National Park. The project combines maps, multimedia, and narrative content to create an engaging digital storytelling experience that enhances visitor exploration and geographic understanding.
+Developed an interactive ArcGIS Survey123 application for collecting georeferenced field data to support crop monitoring and agricultural assessment. The project enables structured field surveys, location-based data collection, and systematic recording of crop conditions and field observations, facilitating efficient agricultural monitoring and spatial data management.
 
-`ArcGIS StoryMaps` `ArcGIS Online`
+`ArcGIS` `Survey123` `Online Field` `Data Collection`
 
-[View Project →](nat_park.md){ .md-button }
+[View Project →](crop_monitoring_survey123.md){ .md-button }
 </div>
+
+<!-- #proj22 -->
+<div class="project-card" markdown>
+![](../assets/images/Plate_Tectonics_Earthquakes_instant_app.png)
+
+**[Plate Tectonics: Earthquakes – ArcGIS Instant Apps](Plate_Tectonics_Earthquakes_instant_app.md)**
+
+Developed an interactive ArcGIS Instant App to visualize global earthquake activity and explore its spatial relationship with tectonic plate boundaries and active fault systems. The application features magnitude-based earthquake classification, interactive map navigation, and thematic layers to support the exploration and understanding of global seismic patterns.
+
+`ArcGIS Instant Apps` `ArcGIS Online` `Web GIS` `Earthquake Visualization`
+
+[View Project →](Plate_Tectonics_Earthquakes_instant_app.md){ .md-button }
+</div> 
+
+<!-- #proj23 -->
+<div class="project-card" markdown> 
+![](../assets/images/Groundwater_Well_Monitoring_Dashboard.png)
+
+[**Groundwater Well Monitoring Dashboard – ArcGIS Dashboards**](Groundwater_Well_Monitoring_Dashboard.md)
+
+Developed an interactive groundwater monitoring dashboard to visualize the spatial distribution and characteristics of groundwater wells across Uttarakhand, India. The dashboard integrates interactive maps, district-wise statistical charts, well-type classification, key performance indicators, and detailed well records to support groundwater data exploration and monitoring.
+
+`ArcGIS Dashboards` `ArcGIS Online` `Groundwater Monitoring` `Web GIS`
+
+[View Project →](Groundwater_Well_Monitoring_Dashboard.md){ .md-button }
+
+\</div>

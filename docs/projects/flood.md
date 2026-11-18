@@ -1,6 +1,12 @@
 # Louisiana Flood Monitoring Dashboard
+<iframe
+    src="/projects/data/Louisiana_Flood_Monitoring_arcgis_dashboard.pdf"
+    width="100%"
+    height="700px"
+    style="border:none; border-radius:8px;">
+</iframe>
 
-![Project overview image](../assets/images/flood.png)
+[Open Full Presentation](/projects/data/Louisiana_Flood_Monitoring_arcgis_dashboard.pdf){ .md-button }
 
 ## Overview
 
