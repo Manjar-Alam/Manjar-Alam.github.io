@@ -270,6 +270,20 @@ THE EMPTY PIXEL: A Geography of Missing Information
 
 [View Project](30_day_map/maps_md/day-18.md){ .md-button }
 </div>
+
+<!-- Day 19 -->
+<div class="project-card" markdown>
+![Smell](30_day_map/maps_png/day_19_smell.png)
+
+**[Day 19. Smell](30_day_map/maps_md/day-19.md)**
+
+
+The Emirates in the Air
+
+ `Emirates` `Smell` `Air`  
+
+[View Project](30_day_map/maps_md/day-19.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
