@@ -299,6 +299,20 @@ Delhi in Hexagons
 [View Project](30_day_map/maps_md/day-20.md){ .md-button }
 </div>
 
+<!-- Day 21 -->
+<div class="project-card" markdown>
+![OpenStreetMap](30_day_map/maps_png/day_21_OSM.png)
+
+**[Day 21. OpenStreetMap](30_day_map/maps_md/day-21.md)**
+
+
+DELHI-THE URBAN FABRIC
+
+ `Building-footprint` `Delhi` `OpenStreetMap`  
+
+[View Project](30_day_map/maps_md/day-21.md){ .md-button }
+</div>
+
 ---
 ## Explore the Maps
 </div>
