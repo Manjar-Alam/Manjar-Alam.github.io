@@ -313,6 +313,19 @@ DELHI-THE URBAN FABRIC
 [View Project](30_day_map/maps_md/day-21.md){ .md-button }
 </div>
 
+<!-- Day 22 -->
+<div class="project-card" markdown>
+![Projections](30_day_map/maps_png/day_22_projections.png)
+
+**[Day 22. Projections](30_day_map/maps_md/day-22.md)**
+
+
+ One World-Six Perspectives
+
+ `Projections` `Global` `Cartography`  
+
+[View Project](30_day_map/maps_md/day-22.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
