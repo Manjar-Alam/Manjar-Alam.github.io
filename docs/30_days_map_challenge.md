@@ -326,6 +326,21 @@ DELHI-THE URBAN FABRIC
 
 [View Project](30_day_map/maps_md/day-22.md){ .md-button }
 </div>
+
+
+<!-- Day 23 -->
+<div class="project-card" markdown>
+![Taste](30_day_map/maps_png/day_23_taste.png)
+
+**[Day 23. Taste](30_day_map/maps_md/day-23.md)**
+
+
+ Taste: A Taste of Italy
+
+ `Taste` `Italy` `Heritage`  
+
+[View Project](30_day_map/maps_md/day-23.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
