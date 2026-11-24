@@ -341,6 +341,20 @@ DELHI-THE URBAN FABRIC
 
 [View Project](30_day_map/maps_md/day-23.md){ .md-button }
 </div>
+
+<!-- Day 24 -->
+<div class="project-card" markdown>
+![Network](30_day_map/maps_png/day_24_Network.png)
+
+**[Day 24. Network](30_day_map/maps_md/day-24.md)**
+
+
+ Lines That Connect India
+
+ `India` `Railway` `Network`  
+
+[View Project](30_day_map/maps_md/day-24.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
