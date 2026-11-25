@@ -24,11 +24,10 @@ This project explores the unconventional side of cartography by mapping the luna
 **Data Sources**
 
 - [NASA Lunar Orbiter Laser Altimeter (LOLA)](https://pgda.gsfc.nasa.gov/products/95)
-- NASA LOLA Global Lunar Digital Elevation Model (`LDEM64_PA_pixel_202405.tif`)
+- NASA LOLA Global Lunar Digital Elevation Model 
 
 **Tools Used**
 
-* QGIS, ArcGIS Pro
 * Python (GeoPandas, Pandas, Matplotlib, Folium, Branca) [Python Notebook](#Link)
 * Digital Elevation Model (DEM) Processing
 * Hillshade and Topographic Relief Visualisation
