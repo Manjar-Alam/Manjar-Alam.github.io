@@ -369,6 +369,20 @@ DELHI-THE URBAN FABRIC
 
 [View Project](30_day_map/maps_md/day-24.md){ .md-button }
 </div>
+
+<!-- Day 26 -->
+<div class="project-card" markdown>
+![water](30_day_map/maps_png/Day26_Cinematic_Water_Change_1986_2020.gif)
+
+**[Day 26. Water?](30_day_map/maps_md/day-25.md)**
+
+
+ The Moon
+
+ `Moon` `3D` `Lunar`  
+
+[View Project](30_day_map/maps_md/day-24.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
