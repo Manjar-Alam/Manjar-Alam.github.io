@@ -355,6 +355,20 @@ DELHI-THE URBAN FABRIC
 
 [View Project](30_day_map/maps_md/day-24.md){ .md-button }
 </div>
+
+<!-- Day 25 -->
+<div class="project-card" markdown>
+![Is This a Map?](30_day_map/maps_png/day_25_is_this_a_map.png)
+
+**[Day 25. Is This a Map?](30_day_map/maps_md/day-25.md)**
+
+
+ The Moon
+
+ `Moon` `3D` `Lunar`  
+
+[View Project](30_day_map/maps_md/day-24.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
