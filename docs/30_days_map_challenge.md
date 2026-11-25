@@ -367,21 +367,21 @@ DELHI-THE URBAN FABRIC
 
  `Moon` `3D` `Lunar`  
 
-[View Project](30_day_map/maps_md/day-24.md){ .md-button }
+[View Project](30_day_map/maps_md/day-25.md){ .md-button }
 </div>
 
 <!-- Day 26 -->
 <div class="project-card" markdown>
-![water](30_day_map/maps_png/Day26_Cinematic_Water_Change_1986_2020.gif)
+![water](30_day_map/maps_png/day_26_water.gif)
 
-**[Day 26. Water?](30_day_map/maps_md/day-25.md)**
+**[Day 26. Water?](30_day_map/maps_md/day-26.md)**
 
 
- The Moon
+ The Moving River - 35 Years of Surface Water Dynamics, Prayagraj, India
 
- `Moon` `3D` `Lunar`  
+ `Water` `India` `Time-Series`  
 
-[View Project](30_day_map/maps_md/day-24.md){ .md-button }
+[View Project](30_day_map/maps_md/day-26.md){ .md-button }
 </div>
 ---
 ## Explore the Maps
