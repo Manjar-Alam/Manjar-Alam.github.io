@@ -374,7 +374,7 @@ DELHI-THE URBAN FABRIC
 <div class="project-card" markdown>
 ![water](30_day_map/maps_png/day_26_water.gif)
 
-**[Day 26. Water?](30_day_map/maps_md/day-26.md)**
+**[Day 26. Water](30_day_map/maps_md/day-26.md)**
 
 
  The Moving River - 35 Years of Surface Water Dynamics, Prayagraj, India
