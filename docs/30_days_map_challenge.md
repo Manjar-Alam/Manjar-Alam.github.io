@@ -383,6 +383,20 @@ DELHI-THE URBAN FABRIC
 
 [View Project](30_day_map/maps_md/day-26.md){ .md-button }
 </div>
+
+<!-- Day 27 -->
+<div class="project-card" markdown>
+![New Tool](30_day_map/maps_png/day_27_new_tool.png)
+
+**[Day 27. New Tool](30_day_map/maps_md/day-27.md)**
+
+
+ THE ROOF OF AFRICA: A Geospatial Portrait of Mount Kilimanjaro, Tanzania
+
+ `RustGIS` `Mount Kilimanjaro` `Africa`  
+
+[View Project](30_day_map/maps_md/day-27.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
