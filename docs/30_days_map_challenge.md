@@ -397,6 +397,20 @@ DELHI-THE URBAN FABRIC
 
 [View Project](30_day_map/maps_md/day-27.md){ .md-button }
 </div>
+
+<!-- Day 28 -->
+<div class="project-card" markdown>
+![Feeling](30_day_map/maps_png/day_28_feeling.png)
+
+**[Day 28. Feeling](30_day_map/maps_md/day-28.md)**
+
+
+ A City Full of Life: Mapping the Geography of Excitement
+
+ `Amsterdam` `Feeling` `Urban-activity`  
+
+[View Project](30_day_map/maps_md/day-28.md){ .md-button }
+</div>
 ---
 ## Explore the Maps
 </div>
